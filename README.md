@@ -47,4 +47,4 @@ This is a responsive, Firebase-backed web application designed to allow students
 
 1. **Clone the repo**
    ```bash
-   git clone https://github.com/yourusername/student-teacher-booking.git
+   git clone https://github.com/Susanta2006/student-teacher-web.git
